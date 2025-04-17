@@ -1,0 +1,9 @@
+🧰 Otimizador de PC – Versão 1.0
+
+Este programa foi criado para otimizar o desempenho do seu computador com Windows, limpando arquivos temporários, desativando efeitos visuais, serviços desnecessários e mais!
+
+✔️ Requisitos: Windows 10 ou 11
+🚫 Não precisa instalar Python
+📌 Basta abrir o arquivo otimizador.exe
+
+Criado por: larissa valeriano 2025 (projeto aoxy)
